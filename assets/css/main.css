@@ -1948,7 +1948,8 @@ input, select, textarea {
 		color: #fff !important;
 		text-decoration: none;
 		padding: 0.75em 2.5em 0.75em 2.5em;
-		background-color: #8ebebc;
+		/* background-color: #8ebebc; */
+		background-color: #6fb8b3;
 		border: 0;
 		cursor: pointer;
 		background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/overlay.png");
@@ -1966,7 +1967,8 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #9ececc;
+			/* background-color: #93c0bf; */
+			background-color: #619aa1;
 		}
 
 		input[type="button"]:active,
@@ -2084,6 +2086,7 @@ input, select, textarea {
 
 			#header .icons a {
 				color: #41484c;
+				/* color: #2b687a; */
 				-moz-transition: color 0.35s ease-in-out;
 				-webkit-transition: color 0.35s ease-in-out;
 				-ms-transition: color 0.35s ease-in-out;
@@ -2169,7 +2172,7 @@ input, select, textarea {
 				}
 
 					#nav ul li a.active span:before {
-						color: #e27689;
+						color: #ca6174;
 					}
 
 /* Footer */
@@ -2248,7 +2251,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/banner0.jpg");
 			}
 
 			#main > section.two {

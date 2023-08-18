@@ -1618,6 +1618,12 @@ input, select, textarea {
 					width: 100%;
 				}
 
+				.row > .col-12-mobile-rocky {
+					padding-right: 100px;
+					margin-right: 10%;
+					margin-left: 10%;
+				}
+
 				.row > .off-12-mobile {
 					margin-left: 100%;
 				}
